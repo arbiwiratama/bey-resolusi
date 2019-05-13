@@ -3,7 +3,9 @@ RENCANA KONTEN
 - Javascript
   *ES6
   *Framework Javascript
-- Fundamentar Struktur Data
+  ^ Angular
+  ^ React
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
