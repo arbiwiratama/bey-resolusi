@@ -3,6 +3,7 @@ RENCANA KONTEN
 - Javascript
   *ES6
   *Framework Javascript
+   (Angular)
    (VUE)
    (React)
 - Fundamentar Struktur Data
@@ -11,3 +12,4 @@ RENCANA KONTEN
 - Interview
 - Vlog
 - Python
+- Node JS
